@@ -1,11 +1,7 @@
-from flask import Flask
 from lxml import etree
 import requests
 from flask import Flask
-from flask import request
-from flask import redirect
 from flask import jsonify
-import json
 
 
 # 使用说明只需要替换cookie变量的值为你的值

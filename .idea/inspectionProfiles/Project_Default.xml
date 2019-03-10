@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="taobao.*" />
+          <option value="tensorflow" />
         </list>
       </option>
     </inspection_tool>
