@@ -6,6 +6,7 @@
         <list>
           <option value="taobao.*" />
           <option value="tensorflow" />
+          <option value="sys" />
         </list>
       </option>
     </inspection_tool>
