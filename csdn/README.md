@@ -1,6 +1,9 @@
 # ParseCSDNBlog
 
-https://github.com/xiaoma101017/ParseCSDNBlog
+
+博客：https://blog.csdn.net/xiaoma_2018/article/details/108231658
+
+原项目地址：https://github.com/xiaoma101017/ParseCSDNBlog
 
 本爬虫程序，运行环境说明 PyCharm 2020.1.1、Python 3.7.5
 使用到的第三方依赖库如下：
